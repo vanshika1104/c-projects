@@ -1,0 +1,1 @@
+This is a model e-commerce website c++ project
